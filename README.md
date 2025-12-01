@@ -32,3 +32,7 @@ Open the SQL script in SQL Server Management Studio.
 Execute the script from the beginning.
 The script creates the database, tables, inserts sample data and demonstrates the required queries, view, stored procedure, function, trigger and transaction.
 
+CourseProjectDB.sql - SQL code for the Course Project
+DBcourseProjPavlenko.docx - Course project report
+Digram.png - diagram of tables
+connections
